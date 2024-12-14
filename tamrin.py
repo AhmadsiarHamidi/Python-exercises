@@ -27,7 +27,7 @@
     
 # total_sale = calculate_total_sale(items,prices)
 # print(f"The total sale amount is : {total_sale}")
-
+print("kiri")
 
 
 
